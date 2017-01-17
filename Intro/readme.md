@@ -9,3 +9,13 @@ Algorithms Engineering Lifecycle consists of 4 phases repeating in a cyclical wa
 
 <img src="http://didawiki.cli.di.unipi.it/lib/exe/fetch.php/magistraleinformaticanetworking/ae/ae.png?cache="/>
 
+# Reference 
+
+[Algorithm Engineering - Uni Course](http://didawiki.cli.di.unipi.it/doku.php/magistraleinformaticanetworking/ae/start)
+- [Material 2016-2017](http://didawiki.cli.di.unipi.it/doku.php/magistraleinformaticanetworking/ae/ae2016/start)
+
+
+
+
+
+
